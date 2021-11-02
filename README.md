@@ -18,7 +18,7 @@ dir /ASH
 
 [Windows 10の空き容量を増やす方法](https://www.pc-koubou.jp/magazine/21581)
 
-仮想 800M
+仮想 800M\
 powercfg.exe /hibernate off
 
 ```
