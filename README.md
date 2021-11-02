@@ -18,6 +18,9 @@ dir /ASH
 
 [Windows 10の空き容量を増やす方法](https://www.pc-koubou.jp/magazine/21581)
 
+仮想 800M
+powercfg.exe /hibernate off
+
 ```
 2018/03/10  22:09    <DIR>          $Recycle.Bin
 2012/07/26  12:44           398,156 bootmgr
